@@ -238,6 +238,7 @@ body {
   margin-right: 10px;
   width: 188px;
   display: flex;
+  cursor: pointer;
   align-items: center;
   justify-content: center;
   height: 52px;
@@ -337,8 +338,8 @@ body {
 }
 .card-btn {
   position: absolute;
-  bottom: -350px;
-  left: 50%;
+  bottom: -400px;
+  left: 45%;
   height: 3vh;
   width: 3vh;
   text-align: center;
@@ -403,8 +404,8 @@ body {
 }
 
 .right-side {
-  width: 50%;
-  height: 100%;
+  width: 40%;
+  height: 750px;
   border-radius: 12px;
   background-color: #e6eaef;
   padding-left: 30px;
